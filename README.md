@@ -17,7 +17,7 @@ Examples of different scenarios:
     the same JSON object as before, but acts as if the current time was passed into the ```<date>```
     parameter. 
 
--   If the values passed into the "<date>" parameter has a wrong format then the API returns
+-   If the values passed into the ```<date>``` parameter has a wrong format then the API returns
     an  error message in a JSON format like: "/api/ae" returns {"error": "Invalid Date"}.
 
 
