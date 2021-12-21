@@ -42,9 +42,13 @@ Installation & Usage
 
 - Clone the repo: git clone https://github.com/SaheedLawanson/Timestamp-Microservice.git
 
-- Install node: run "npm install node" in cmd
+- Install node: run in cmd
+    
+    ```npm install node```
 
-- Open cmd in the project root folder and run "node index.js"
+- Open cmd in the project root folder and run 
+    
+    ```node index.js```
 
 - On your preferred browser, visit "localhost:3000"
 
