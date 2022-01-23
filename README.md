@@ -1,4 +1,4 @@
-About the project
+# About the project
 
 The timestamp microservice project is an API which helps to convert between 
 different time formats based on the value passed into the API's parameter. This API 
@@ -21,7 +21,7 @@ Examples of different scenarios:
     an  error message in a JSON format like: "/api/ae" returns {"error": "Invalid Date"}.
 
 
-Built with
+# Built with
 
 - Node.js
 - Express.js
@@ -29,16 +29,16 @@ Built with
 - body-parser
 
 
-Getting Started
+# Getting Started
 To get a local copy up and running, follow these simple steps.
 
 
-Prerequisites
+## Prerequisites
 
 - npm
 
 
-Installation & Usage
+## Installation & Usage
 
 - Clone the repo: git clone https://github.com/SaheedLawanson/Timestamp-Microservice.git
 
