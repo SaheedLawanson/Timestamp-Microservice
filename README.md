@@ -6,7 +6,7 @@ can be used by sending a post request to ```/api/<date>```, in other words appen
 to the domain name. The ```<date>``` should be replaced with a valid time format.
 
 When used correctly, the API returns a JSON object, the first item is the ```<date>``` converted 
-to a unix time format and the second item is the "<date>" converted to a UTC datetimestamp format. JavaScript's accepted time formats can be found here https://www.w3schools.com/js/js_date_formats.asp, 
+to a unix time format and the second item is the "<date>" converted to a UTC datetimestamp format. JavaScript's accepted time formats can be found [here] (https://www.w3schools.com/js/js_date_formats.asp), 
 the API also accepts time in milliseconds using the year 1970 as reference (1970 corresponds to 0ms). 
 Examples of different scenarios:
 
